@@ -1,2 +1,2 @@
-# softuni-programming-basics-with-C#
+# Softuni - Programming Basics With C#
 SoftUni - Programming Basics with C#
