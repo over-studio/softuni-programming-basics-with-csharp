@@ -10,14 +10,14 @@ class MainClass {
 		the ground and what is the total time for replacing the tiles.
 		*/
 
-		// input
+		// inputs
 		int groundSide = 20;
 		double tileWidth = 5;
 		double tileHeight = 4;
 		int benchWidth = 1;
 		int benchHeight = 2;
 
-		// output
+		// outputs
 		double tilesNumber = (groundSide * groundSide - benchWidth * benchHeight) / (tileWidth * tileHeight);
 
 		double timeReplaceTiles = tilesNumber * 0.2;
